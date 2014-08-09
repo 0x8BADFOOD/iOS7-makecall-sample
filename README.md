@@ -1,4 +1,4 @@
-JBCall - sample app for calls
+JBCall - sample app for calls on JB iOS7
 =======
 
 ###  [For Jailbroken devices only!]
