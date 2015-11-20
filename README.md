@@ -11,7 +11,7 @@ This is test iOS application which allows you to make calls.
 
   [32866c8e]: http://stackoverflow.com/questions/19504478/ios-7-how-to-get-own-number-via-private-api "Question on stackoverflow"
 
-[Article on russian it resource habrahabr.ru][ebc3b318]
+[Article on Russian it resource habrahabr.ru][ebc3b318]
 
   [ebc3b318]: http://habrahabr.ru/post/233295/ "Article on russian it resource habrahabr.ru"
 
@@ -33,7 +33,7 @@ $ls -la ~/Library/Developer/Xcode/DerivedData/ | grep JBCall
 $ls -la ~/Library/Developer/Xcode/DerivedData/ | grep JBCall
 ```
   To find profile name check your keychain records
-* Make scripts runable:
+* Make scripts runnable:
 ```
 $chmod +x ./install_app.sh
 $chmod +x ./remove_app.sh
