@@ -5,6 +5,16 @@ JBCall - sample app for calls on JB iOS7
 
 This is test iOS application which allows you to make calls.
 
+![Demo screens](./demo.png)
+
+[Question on stackoverflow][32866c8e]
+
+  [32866c8e]: http://stackoverflow.com/questions/19504478/ios-7-how-to-get-own-number-via-private-api "Question on stackoverflow"
+
+[Article on russian it resource habrahabr.ru][ebc3b318]
+
+  [ebc3b318]: http://habrahabr.ru/post/233295/ "Article on russian it resource habrahabr.ru"
+
 # How to use?
 
 * Sync repository
@@ -41,4 +51,3 @@ $sudo apt-get install sshpass
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/0x8BADFOOD/ios7-makecall-sample/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
